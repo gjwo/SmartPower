@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Apr 28 12:56:21 BST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-014c-ffe2-95b5-000002e5d8f0 
+on database directory C:\Users\GJWood\Documents\Development\Derby\SmartPowerDbv3  with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/GJWood/Documents/Development/workspace/Libraries/Derby/db-derby-10.9.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_31-b13
+user.dir=C:\Users\GJWood\Documents\Development\workspace\SmartPower
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
